@@ -1,5 +1,3 @@
-# LIVE LINK - https://thehotpizza.netlify.app/
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,3 +14,5 @@ Currently, two official plugins are available:
 2. Navigate to the project directory: cd restaurant-reservation-website
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
+
+LIVE LINK - https://thehotpizza.netlify.app/
